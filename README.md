@@ -57,8 +57,10 @@
 
 ---
 
-## 📫 Connect With Me
-- **LinkedIn:** [Kritika Sharma](https://www.linkedin.com/in/kritika-sharma-43ab0130b/)  
+
+- ## 📫 Connect With Me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Kritika%20Sharma-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/kritika-sharma-43ab0130b/)
+
 
 ---
 
